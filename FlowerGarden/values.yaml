@@ -3,7 +3,7 @@ config:
     destination:
       server: https://kubernetes.default.svc
     source:
-      repoURL: https://github.com/madhankumar866/appofapps
+      repoURL: https://github.com/madhankumar866/GardeningManual
       targetRevision: appofapps
 
 applications:
