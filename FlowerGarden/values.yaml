@@ -8,7 +8,7 @@ config:
 
 applications:
   - name: lily
-    path: FlowerGarden/charts/Lily
+    path: charts/Lily
   # - name: rose
   #   path: FlowerGarden/charts/Rose
   # - name: sunflower
