@@ -4,7 +4,7 @@ config:
       server: https://kubernetes.default.svc
     source:
       repoURL: https://github.com/madhankumar866/appofapps
-      targetRevision: master
+      targetRevision: appofapps
 
 applications:
   - name: lily
